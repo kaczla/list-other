@@ -5,12 +5,14 @@ The purpose of this repository is to archive elements that I decided as importan
 
 # List
 
+- [Animations and instructional videos about neural networks](data/animated_ai)
+  - Source: [animatedai.github.io](https://animatedai.github.io/) (access February 2023)
 - [Compare Transformer Self-Attention and Cross-Attention - Visualization](data/transformer_compare_attentions)
-  - Source: [twitter](https://twitter.com/rasbt/status/1624441393182539777) and [Sebastian Raschka Blog](https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html)
+  - Source: [twitter](https://twitter.com/rasbt/status/1624441393182539777) and [Sebastian Raschka Blog](https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html) (access February 2023)
 - [3D Parallelism Simple Visualization](data/3d_parallelism)
-  - Source: [twitter](https://twitter.com/rasbt/status/1625494398778892292)
+  - Source: [twitter](https://twitter.com/rasbt/status/1625494398778892292) (access February 2023)
 - [List of free ebooks](data/free_ebook)
-  - Source: [lagout.org/programmation](https://doc.lagout.org/programmation/) and [goalkicker.com](https://goalkicker.com)
+  - Source: [lagout.org/programmation](https://doc.lagout.org/programmation/) and [goalkicker.com](https://goalkicker.com) (access February 2023)
 - [Diagram of loss functions in machine learning](data/loss_functions_in_machine_learning)
   - Source: [publication](https://arxiv.org/abs/2301.05579) (access January 2023)
 - [List and diagrams of Transformer models](data/transformer_list) (many diagrams/lists)
