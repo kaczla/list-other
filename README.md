@@ -5,6 +5,16 @@ The purpose of this repository is to archive elements that I decided as importan
 
 # List
 
+- [TCP vs. UDP: 7 Differences You Should Know](data/tcp_vs_udp)
+  - Source: [twitter](https://twitter.com/alexxubyte/status/1643640904459386880) (access April 2023)
+- [Vocab Size as a Multiple of 64](data/vocab_multiple_of_64)
+  - Source: [twitter](https://twitter.com/karpathy/status/1621578354024677377) (access March 2023)
+- [Sharding Large Models with Tensor Parallelism](data/tensor_parallel)
+  - Source: [Misha Laskin blog](https://www.mishalaskin.com/posts/tensor_parallel) (access March 2023)
+- [Making model initialization faster in PyTorch](data/faster_model_initialization)
+  - Source [Lernapparat blog](https://lernapparat.de/faster-model-init) (access March 2023)
+- [PyTorch, Gradient Accumulation, and the dreaded drop in speed](data/analysis_accelerate)
+  - Source: [Zach Mueller blog](https://muellerzr.github.io/blog/gradient_accumulation.html) (access March 2023)
 - [Animations and instructional videos about neural networks](data/animated_ai)
   - Source: [animatedai.github.io](https://animatedai.github.io/) (access February 2023)
 - [Compare Transformer Self-Attention and Cross-Attention - Visualization](data/transformer_compare_attentions)
