@@ -5,6 +5,12 @@ The purpose of this repository is to archive elements that I decided as importan
 
 # List
 
+- [The move from a distributed microservices architecture to a monolith application helped achieve higher scale, resilience, and reduce costs](data/from_microservices_to_monolith)
+  - Source: [primevideotech.com](https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90) (access August 2023)
+- [Memory Allocation](data/memory_allocation)
+  - Source: [samwho.dev](https://samwho.dev/memory-allocation/) (access August 2023)
+- [Visual guide of Transformer architecture](data/transformer_visualization)
+  - Source: [twitter](https://twitter.com/akshay_pachaar/status/1647940492712345601) (access April 2023)
 - [TCP vs. UDP: 7 Differences You Should Know](data/tcp_vs_udp)
   - Source: [twitter](https://twitter.com/alexxubyte/status/1643640904459386880) (access April 2023)
 - [Vocab Size as a Multiple of 64](data/vocab_multiple_of_64)
